@@ -1,0 +1,3 @@
+[submodule "beta-submodule"]
+	path = beta-submodule
+	url = https://github.com/brazen-paradox/beta-submodule
